@@ -6,7 +6,7 @@ There are two parts to this course:
 * One part for for separation processes
 
 * [Real Gases.md](Real Gases.md)
-* [[Enthalpy Accumulation.md]]
-* [[Entropy.md]]
-* [[gibbs free energy.md]]
+* [Enthalpy Accumulation.md](Enthalpy Accumulation.md)
+* [Entropy.md](Entropy.md)
+* [gibbs free energy.md](gibbs free energy.md)
 * 
